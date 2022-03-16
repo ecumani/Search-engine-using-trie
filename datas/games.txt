@@ -1,0 +1,2000 @@
+1	Tetris	1985
+2	The Legend of Zelda: Ocarina of Time	1998
+3	Super Mario 64	1996
+4	Half-Life 2	2004
+5	Resident Evil 4	2005
+6	BioShock	2007
+7	Final Fantasy VII	1997
+8	World of Warcraft	2004
+9	Metal Gear Solid	1998
+10	Doom	1993
+11	The Elder Scrolls V: Skyrim	2011
+12	Mass Effect 2	2010
+13	The Last of Us	2013
+14	Super Mario World	1991
+15	Chrono Trigger	1995
+16	The Legend of Zelda: A Link to the Past	1991
+17	Red Dead Redemption	2010
+18	GoldenEye 007	1997
+19	Halo: Combat Evolved	2001
+20	Portal 2	2011
+21	Minecraft	2011
+22	Street Fighter II	1991
+23	Portal	2007
+24	Super Metroid	1994
+25	The Witcher 3	2015
+26	Super Mario Bros.	1985
+27	Shadow of the Colossus	2005
+28	Deus Ex	2000
+29	Super Mario Bros. 3	1990
+30	Grand Theft Auto V	2013
+31	Half-Life	1998
+32	Call of Duty 4: Modern Warfare	2007
+33	Uncharted 2: Among Thieves	2009
+34	Grand Theft Auto III	2001
+35	Metroid Prime	2002
+36	Starcraft	1998
+37	Castlevania: Symphony of the Night	1997
+38	Dark Souls	2011
+39	The Legend of Zelda: Breath of the Wild	2017
+40	The Legend of Zelda	1986
+41	Pokemon Red/Blue	1998
+42	Super Mario Kart	1992
+43	Star Wars: Knights of the Old Republic	2003
+44	Super Mario Galaxy	2007
+45	Final Fantasy VI	1994
+46	Fallout 3	2008
+47	The Legend of Zelda: The Wind Waker	2002
+48	Metal Gear Solid 3: Snake Eater	2004
+49	Resident Evil	1996
+50	Silent Hill 2	2001
+51	Grand Theft Auto: San Andreas	2004
+52	Diablo II	2000
+53	Super Smash Bros. Melee	2001
+54	Pac-Man	1980
+55	Journey	2012
+56	Ico	2001
+57	Space Invaders	1978
+58	Grand Theft Auto: Vice City	2002
+59	Overwatch	2016
+60	The Sims	2000
+61	Donkey Kong	1981
+62	Mario Kart 8	2014
+63	Super Mario Galaxy 2	2010
+64	Bloodborne	2015
+65	Baldur's Gate II	2000
+66	Tomb Raider	1996
+67	Team Fortress 2	2007
+68	Okami	2006
+69	Batman: Arkham Asylum	2009
+70	The Secret of Monkey Island	1990
+71	The Walking Dead	2012
+72	Batman: Arkham City	2011
+73	Mass Effect	2007
+74	Prince of Persia: The Sands of Time	2003
+75	Sonic the Hedgehog	1991
+76	Grim Fandango	1998
+77	The Elder Scrolls IV: Oblivion	2006
+78	The Legend of Zelda: Majora's Mask	2000
+79	Wii Sports	2006
+80	Counter-Strike	2001
+81	Braid	2008
+82	Pong	1972
+83	Final Fantasy X	2001
+84	Halo 2	2004
+85	Halo 3	2007
+86	Sid Meier's Civilization	1991
+87	System Shock 2	1999
+88	Mega Man 2	1989
+89	Super Mario Odyssey	2017
+90	Grand Theft Auto IV	2008
+91	Assassin's Creed II	2009
+92	The Legend of Zelda: Twilight Princess	2006
+93	Punch-Out!!	1987
+94	Earthbound	1994
+95	Resident Evil 2	1998
+96	Metal Gear Solid V: The Phantom Pain	2015
+97	Yoshi's Island	1995
+98	Quake	1996
+99	Shin Megami Tensei: Persona 4	2008
+100	Doom	2016
+101	God of War	2005
+102	God of War	2018
+103	Rocket League	2015
+104	Tony Hawk's Pro Skater 2	2000
+105	Mario Kart 64	1996
+106	SimCity	1989
+107	Secret of Mana	1993
+108	Planescape: Torment	1999
+109	Gears of War	2006
+110	Horizon: Zero Dawn	2017
+111	Metal Gear Solid 2: Sons of Liberty	2001
+112	Sid Meier's Civilization IV	2005
+113	Starcraft 2	2010
+114	The Elder Scrolls III: Morrowind	2002
+115	Uncharted 4: A Thief's End	2016
+116	Dead Space	2008
+117	NBA Jam	1993
+118	Sonic the Hedgehog 2	1992
+119	Ms. Pac-Man	1981
+120	Red Dead Redemption 2	2018
+121	Final Fantasy Tactics	1997
+122	Stardew Valley	2016
+123	Titanfall 2	2016
+124	Metal Gear Solid 4: Guns of the Patriots	2008
+125	Nier: Automata	2017
+126	UFO: Enemy Unknown	1993
+127	Beyond Good & Evil	2003
+128	Contra 	1987
+129	Banjo-Kazooie	1998
+130	Donkey Kong Country 	1994
+131	Burnout 3: Takedown	2004
+132	SoulCalibur	1999
+133	BioShock Infinite	2013
+134	Limbo	2010
+135	Advance Wars	2001
+136	Inside	2016
+137	Fallout: New Vegas	2010
+138	Shenmue	1999
+139	The Legend of Zelda: Link's Awakening	1993
+140	Metroid	1986
+141	Spelunky	2008
+142	Wolfenstein 3D	1992
+143	Psychonauts	2005
+144	League of Legends	2009
+145	Myst	1993
+146	Left 4 Dead	2008
+147	Dragon Age: Origins	2009
+148	Sid Meier's Civilization V	2010
+149	Dance Dance Revolution	1998
+150	Guitar Hero	2005
+151	Super Meat Boy	2010
+152	Age of Empires II: The Age of Kings	1999
+153	Super Mario RPG: Legend of the Seven Stars	1996
+154	Maniac Mansion: Day of the Tentacle	1993
+155	Diablo	1997
+156	Tekken 3	1997
+157	Super Smash Bros. Brawl	2008
+158	Sid Meier's Civilization II	1996
+159	Star Wars: TIE Fighter	1994
+160	Resident Evil 7: Biohazard	2017
+161	Final Fantasy IX	2000
+162	Bayonetta 2	2014
+163	Persona 5	2016
+164	Star Fox 64	1997
+165	Rock Band	2007
+166	Xenoblade Chronicles	2010
+167	Gran Turismo	1997
+168	Fortnite	2017
+169	Far Cry 3	2012
+170	Alien: Isolation	2014
+171	Dishonored	2012
+172	Dune II	1992
+173	Pokemon Gold/Silver	2000
+174	Eternal Darkness: Sanity's Requiem	2002
+175	Celeste	2018
+176	Fallout	1997
+177	Lemmings	1991
+178	Duke Nukem 3D	1996
+179	SimCity 2000	1993
+180	Warcraft III: Reign of Chaos	2002
+181	Katamari Damacy	2004
+182	XCOM: Enemy Unknown	2012
+183	LittleBigPlanet	2008
+184	Perfect Dark	2000
+185	Streets of Rage II	1992
+186	Diablo III	2012
+187	Street Fighter IV	2008
+188	Final Fantasy IV	1991
+189	Zork I	1980
+190	Bayonetta	2009
+191	Elite	1984
+192	Quake III Arena	1999
+193	Undertale	2015
+194	Final Fantasy XII	2006
+195	God of War II	2007
+196	Left 4 Dead 2	2009
+197	Mass Effect 3	2012
+198	Soul Calibur II	2002
+199	Unreal Tournament	1999
+200	Spider-Man	2018
+201	Mortal Kombat II	1993
+202	Shovel Knight	2014
+203	Kingdom Hearts	2002
+204	Fallout 4	2015
+205	Super Smash Bros.	1999
+206	Super Smash Bros. Ultimate	2018
+207	Eve Online	2003
+208	Mortal Kombat	1992
+209	Hotline Miami	2012
+210	Deus Ex: Human Revolution	2011
+211	God of War III	2010
+212	Burnout Paradise	2008
+213	Rock Band 3	2010
+214	F-Zero GX	2003
+215	Ultima IV: Quest of the Avatar	1985
+216	Rayman Legends	2013
+217	Paper Mario: The Thousand-Year Door	2004
+218	Gran Turismo 3: A-Spec	2001
+219	Rez	2001
+220	FTL: Faster Than Light	2012
+221	Monkey Island 2: LeChuck's Revenge	1991
+222	Company of Heroes	2006
+223	Dishonored 2	2016
+224	DOTA 2	2011
+225	Battlefield 1942	2002
+226	Cuphead	2017
+227	Warcraft II: Tides of Darkness	1995
+228	Monster Hunter: World	2018
+229	Fallout 2	1998
+230	Animal Crossing	2001
+231	Tomb Raider	2013
+232	Skies of Arcadia	2000
+233	XCOM 2	2016
+234	Final Fantasy	1987
+235	Gone Home	2013
+236	Super Mario Sunshine	2002
+237	Asteroids	1979
+238	Heavy Rain	2010
+239	Tom Clancy's Splinter Cell: Chaos Theory	2005
+240	Prince of Persia	1989
+241	Double Dragon	1987
+242	R-Type	1987
+243	Destiny 2	2017
+244	Hearthstone	2014
+245	Divinity: Original Sin 2	2017
+246	Tony Hawk's Pro Skater	1999
+247	What Remains of Edith Finch 	2017
+248	The Legend of Zelda: Skyward Sword	2011
+249	Kingdom Hearts II	2006
+250	Borderlands 2	2012
+251	Suikoden II	1998
+252	Silent Hill	1999
+253	Gauntlet	1985
+254	Fez	2012
+255	Demon's Souls	2009
+256	Resident Evil 2 	2019
+257	Battlefield 2	2005
+258	Mirror's Edge	2008
+259	PlayerUnknown's Battlegrounds	2017
+260	Sid Meier's Pirates	1987
+261	Animal Crossing: New Leaf	2012
+262	The Witcher 2: Assassins of Kings	2011
+263	Splatoon 2	2017
+264	Super Mario Bros. 2	1988
+265	OutRun	1986
+266	Galaga	1981
+267	Everquest	1999
+268	Jet Set Radio	2000
+269	Contra III: The Alien Wars	1992
+270	Baldur's Gate	1998
+271	Castlevania	1986
+272	Bubble Bobble	1986
+273	Counter-Strike: Global Offensive	2012
+274	Mario + Rabbids Kingdom Battle	2017
+275	Fire Emblem: Awakening	2013
+276	Thief II: The Metal Age	2000
+277	Assassin's Creed Odyssey	2018
+278	Hollow Knight	2017
+279	Life Is Strange	2015
+280	Metroid Prime 3: Corruption	2007
+281	Devil May Cry	2001
+282	Ikaruga	2001
+283	Alone in the Dark	1992
+284	Forza Horizon 3	2016
+285	Street Fighter III: Third Strike	1999
+286	Final Fantasy VIII	1999
+287	Dragon Quest	1986
+288	Rome: Total War	2004
+289	Crash Bandicoot: Warped	1998
+290	Mega Man X	1993
+291	Conker's Bad Fur Day	2001
+292	Robotron: 2084	1982
+293	Ultima Online	1997
+294	Uncharted 3: Drake's Deception	2011
+295	Max Payne	2001
+296	Phantasy Star Online	2000
+297	Destiny	2014
+298	PaRappa the Rapper	1996
+299	Dragon Quest VIII: Journey of the Cursed King	2004
+300	Splatoon	2015
+301	Assassin's Creed IV: Black Flag	2013
+302	The Witness	2016
+303	Crazy Taxi	1999
+304	Marvel vs. Capcom 2: New Age of Heroes	2000
+305	Super Mario 3D World	2013
+306	Dead Cells	2017
+307	Gears of War 2	2008
+308	Crash Bandicoot	1996
+309	Rise of the Tomb Raider	2015
+310	Ori and the Blind Forest	2015
+311	Homeworld	1999
+312	Viewtiful Joe	2003
+313	Ninja Gaiden	2004
+314	Star Fox	1993
+315	Gran Turismo 4	2005
+316	Sam & Max Hit the Road	1993
+317	Teenage Mutant Ninja Turtles: Turtles in Time	1992
+318	Xenogears	1998
+319	DuckTales	1990
+320	Tecmo Super Bowl	1991
+321	M.U.L.E.	1983
+322	Outer Wilds	2019
+323	Fable II	2008
+324	Dark Souls III	2016
+325	Forza Horizon 4	2018
+326	F-Zero	1990
+327	Angry Birds	2009
+328	Ultima Underworld: The Stygian Abyss	1992
+329	Super Mario Maker	2015
+330	WarioWare, Inc.: Mega MicroGames!	2003
+331	Pitfall!	1982
+332	Thief: The Dark Project	1998
+333	Devil May Cry 3	2005
+334	Command & Conquer	1995
+335	Wolfenstein II: The New Colossus	2017
+336	Papers, Please	2013
+337	Mario Kart DS	2005
+338	Until Dawn	2015
+339	Gunstar Heroes	1993
+340	Vampire: The Masquerade - Bloodlines	2004
+341	Hitman: Blood Money	2006
+342	Pokemon Go	2016
+343	Ninja Gaiden	1988
+344	Doom II: Hell on Earth	1994
+345	Mario Kart Wii	2008
+346	Spacewar!	1962
+347	Phoenix Wright: Ace Attorney	2005
+348	Mario Kart: Double Dash	2003
+349	NHL '94	1993
+350	Maniac Mansion	1987
+351	The Legend of Zelda: A Link Between Worlds	2013
+352	Lumines	2004
+353	Shenmue II	2001
+354	Alan Wake	2010
+355	Adventure	1979
+356	TimeSplitters 2	2002
+357	Rock Band 2	2008
+358	Metroid Prime 2: Echoes	2004
+359	Bastion	2011
+360	Wave Race 64	1996
+361	Tom Clancy's Splinter Cell	2002
+362	Tecmo Bowl	1988
+363	The Chronicles of Riddick: Escape from Butcher Bay	2004
+364	Amnesia: The Dark Descent	2012
+365	Into the Breach	2018
+366	Command & Conquer: Red Alert	1996
+367	Earthworm Jim	1994
+368	Kerbal Space Program	2013
+369	Chrono Cross	1999
+370	Super Smash Bros. for Wii U	2014
+371	Super Castlevania IV	1991
+372	Kentucky Route Zero	2013
+373	The World Ends With You	2007
+374	Donkey Kong	1994
+375	Final Fantasy XIV: A Realm Reborn	2010
+376	Donkey Kong Country Returns	2010
+377	Street Fighter II Turbo: Hyper Fighting	1992
+378	Return of the Obra Dinn	2018
+379	Donkey Kong Country 2	1995
+380	Metroid II: Return of Samus	1991
+381	Sekiro: Shadows Die Twice	2019
+382	Bionic Commando	1988
+383	Tetris Effect	2018
+384	New Super Mario Bros.	2006
+385	Pikmin 2	2004
+386	Donkey Kong Country: Tropical Freeze	2014
+387	The Longest Journey	1999
+388	Call of Duty	2003
+389	Defender	1980
+390	Sega Rally Championship	1995
+391	SSX 3	2003
+392	Golden Axe	1989
+393	Halo: Reach	2010
+394	Hitman	2016
+395	Tom Clancy's Rainbow Six Siege	2015
+396	Shin Megami Tensei: Persona 3	2006
+397	Another World	1991
+398	Yakuza 0	2015
+399	Wizardry: Proving Grounds of the Mad Overlord	1981
+400	Dungeon Master	1987
+401	Halo 4	2012
+402	Borderlands	2009
+403	The Last Guardian	2016
+404	Quake II	1997
+405	Tony Hawk's Pro Skater 3	2001
+406	King's Quest	1984
+407	Assassin's Creed: Brotherhood	2010
+408	Metal Gear Solid: Peace Walker	2010
+409	Gran Turismo 2	1999
+410	World of Goo	2008
+411	Cave Story	2004
+412	NiGHTS into Dreams...	1996
+413	Control	2019
+414	Battlefield: Bad Company 2	2010
+415	Paper Mario	2000
+416	John Madden Football	1990
+417	Dragon Age: Inquisition	2014
+418	Her Story	2015
+419	ActRaiser	1990
+420	Panzer Dragoon Saga	1998
+421	Grand Theft Auto: Chinatown Wars	2009
+422	Command & Conquer: Red Alert 2	2000
+423	Wipeout 2097	1996
+424	F.E.A.R.	2005
+425	Sid Meier's Civilization VI	2016
+426	New Super Mario Bros. Wii	2009
+427	Mario & Luigi: Superstar Saga	2003
+428	Mega Man 3	1990
+429	Valkyria Chronicles	2008
+430	Battlefield 1	2016
+431	Phantasy Star IV: The End of the Millennium	1995
+432	Wipeout	1995
+433	River City Ransom	1989
+434	The Oregon Trail	1971
+435	Ultima VII: The Black Gate	1992
+436	Elite Beat Agents	2006
+437	Super Mario Land 2: 6 Golden Coins	1992
+438	Saints Row: The Third	2011
+439	Guitar Hero II	2006
+440	Tempest	1980
+441	Firewatch	2016
+442	Geometry Wars: Retro Evolved 2	2008
+443	Syndicate	1993
+444	Max Payne 2: The Fall of Max Payne	2003
+445	The Sims 2	2004
+446	Populous	1989
+447	Legacy of Kain: Soul Reaver	1999
+448	Zelda II: The Adventure of Link	1988
+449	Pole Position	1982
+450	Metroid Fusion	2002
+451	Vagrant Story	2000
+452	Crysis	2007
+453	Star Wars	1983
+454	Star Wars Rogue Squadron II: Rogue Leader	2001
+455	Uncharted: Drake's Fortune	2007
+456	Killer7	2005
+457	Castlevania III: Dracula's Curse	1989
+458	Sonic Mania	2017
+459	Crusader Kings II	2012
+460	Pokemon Yellow	1998
+461	Mario Kart 7	2011
+462	Final Fight	1989
+463	Thumper	2016
+464	Middle-Earth: Shadow Of Mordor	2014
+465	Call of Duty: Modern Warfare 2	2009
+466	Castlevania: Aria of Sorrow	2003
+467	Super Monkey Ball	2000
+468	Spec Ops: The Line	2012
+469	Mega Man	1987
+470	Ratchet & Clank: Up Your Arsenal	2004
+471	Daytona USA	1993
+472	Jak and Daxter: The Precursor Legacy	2001
+473	Sonic the Hedgehog 3	1994
+474	Kirby's Adventure	1993
+475	Guild Wars 2	2012
+476	80 Days	2014
+477	Super Punch-Out!!	1994
+478	Hellblade: Senua's Sacrifice	2017
+479	Assassin's Creed Origins	2017
+480	Threes	2014
+481	Cities: Skylines	2015
+482	Resident Evil - Code: Veronica	2000
+483	Super Hexagon	2012
+484	Counter-Strike: Source	2004
+485	The Legend of Zelda: The Minish Cap	2004
+486	Ghosts 'n Goblins	1985
+487	Madden NFL 2005	2004
+488	Manic Miner	1983
+489	Battlefield 3	2011
+490	Pokemon Black/White	2011
+491	Apex Legends	2019
+492	Super Mario 3D Land	2013
+493	Aladdin	1993
+494	Star Wars Jedi Knight: Dark Forces II	1997
+495	ESPN NFL 2K5	2004
+496	Death Stranding	2019
+497	Monument Valley	2014
+498	LittleBigPlanet 2	2011
+499	Final Fantasy XV	2016
+500	Batman: Arkham Knight	2015
+501	Crackdown	2007
+502	Luigi's Mansion	2001
+503	Indiana Jones and the Fate of Atlantis	1992
+504	Hitman 2	2018
+505	WWF No Mercy	2000
+506	Disco Elysium	2019
+507	Super Street Fighter IV	2010
+508	Unreal Tournament 2004	2004
+509	Ultima I	1981
+510	Metal Gear	1987
+511	Virtua Fighter 2	1994
+512	Sensible World of Soccer	1994
+513	Killer Instinct	1994
+514	Twisted Metal 2	1996
+515	Peggle	2007
+516	Condemned	2005
+517	Flashback	1992
+518	Age of Empires	1997
+519	The Legend of Zelda: Phantom Hourglass	2007
+520	Virtua Fighter 4	2003
+521	System Shock 	1994
+522	Duck Hunt	1984
+523	Street Fighter Alpha III	1998
+524	Broken Sword: The Shadow of the Templars	1996
+525	Tetris Attack	1996
+526	Missile Command	1980
+527	Pokemon Ruby/Sapphire	2002
+528	Arms	2017
+529	Super Mario Land	1989
+530	Call of Duty: Black Ops	2010
+531	Metal Slug	1996
+532	Animal Crossing: Wild World	2005
+533	No Man's Sky	2016
+534	The Sims 3	2009
+535	Dr. Mario	1990
+536	Star Wars: Knights of the Old Republic II	2004
+537	Geometry Wars: Retro Evolved	2003
+538	Virtua Fighter	1993
+539	Tales of Symphonia	2003
+540	Fire Emblem	2003
+541	Sonic & Knuckles	1994
+542	WarioWare: Twisted!	2004
+543	Golden Sun	2001
+544	Pokemon X/Y	2013
+545	Mafia: The City of Lost Heaven	2002
+546	Kid Icarus	1986
+547	Super Puzzle Fighter II Turbo	1996
+548	FIFA 12	2011
+549	Grand Theft Auto	1997
+550	Tekken 5	2005
+551	Far Cry	2004
+552	Far Cry 4	2014
+553	S.T.A.L.K.E.R.: Shadow of Chernobyl	2007
+554	Bully	2006
+555	Fire Emblem: Three Houses	2019
+556	Wing Commander	1990
+557	Devil May Cry 5	2019
+558	Dragon's Lair	1983
+559	Pokemon Sun/Moon	2016
+560	Dead Rising	2006
+561	Ultima III: Exodus	1983
+562	L.A. Noire	2011
+563	Plants vs. Zombies	2009
+564	Speedball 2: Brutal Deluxe	1990
+565	F-Zero X	1998
+566	Jet Set Radio Future	2002
+567	The Curse of Monkey Island	1997
+568	Pokemon: Let's Go, Pikachu! and Let's Go, Eevee!	2018
+569	Rayman 2: The Great Escape	1999
+570	Ratchet & Clank	2002
+571	Tomb Raider II	1997
+572	Star Wars: Battlefront II	2005
+573	Pro Evolution Soccer 6	2006
+574	Freespace 2	1999
+575	Super Hot	2016
+576	The Legend of Zelda: Oracle of Seasons/Ages	2001
+577	Castle Crashers	2008
+578	Pikmin	2001
+579	Star Control II 	1992
+580	Gears of War 4	2016
+581	Sid Meier's Civilization III	2001
+582	Shining Force II	1993
+583	Fable	2005
+584	Halo 5: Guardians	2015
+585	Manhunt	2003
+586	Divinity: Original Sin	2014
+587	Battletoads	1991
+588	Ridge Racer	1993
+589	Night in the Woods	2017
+590	Metal Gear Solid: The Twin Snakes	2004
+591	Pikmin 3	2013
+592	Fatal Frame II: Crimson Butterfly	2003
+593	Uncharted: The Lost Legacy	2017
+594	Herzog Zwei	1989
+595	Bulletstorm	2011
+596	Injustice 2	2017
+597	Prey	2017
+598	Battlezone	1980
+599	Excitebike	1985
+600	Disgaea: Hour of Darkness	2003
+601	Superbrothers: Sword & Sworcery EP	2011
+602	Guardian Heroes	1996
+603	Wii Sports Resort	2009
+604	Spyro the Dragon	1998
+605	New Super Mario Bros. U	2012
+606	Dead Space 2	2011
+607	Full Throttle	1995
+608	Virtua Tennis	2000
+609	Gabriel Knight: Sins of the Fathers	1993
+610	Flower	2009
+611	Dragon Quest III	1988
+612	Final Fantasy Tactics Advance 	2003
+613	Sea of Thieves	2018
+614	Xenoblade Chronicles 2	2017
+615	Super Bomberman	1993
+616	MechWarrior 2: 31st Century Combat	1995
+617	Golf Story	2017
+618	Diddy Kong Racing	1997
+619	Dark Souls II	2014
+620	Infamous 2	2011
+621	Metroid Zero Mission	2004
+622	Worms	1995
+623	Enslaved: Odyssey to the West	2010
+624	Darkest Dungeon	2015
+625	Sonic CD	1993
+626	Pokemon HeartGold/SoulSilver	2009
+627	Far Cry 2	2008
+628	Jade Empire	2005
+629	Dragon Quest IV: Chapters of the Chosen	1990
+630	Total War: Shogun 2	2011
+631	Comix Zone	1995
+632	Mario Tennis	2000
+633	Black & White	2001
+634	Worms Armageddon	1999
+635	Sunset Overdrive	2014
+636	Captain Toad: Treasure Tracker	2014
+637	Monster Hunter 4 Ultimate	2013
+638	After Burner	1987
+639	Castlevania: Dawn of Sorrow	2005
+640	Boulder Dash	1984
+641	Vanquish	2010
+642	Mark of the Ninja	2012
+643	Archon	1983
+644	Wolfenstein: The New Order	2014
+645	Ape Escape	1999
+646	Frogger	1981
+647	God of War: Chains of Olympus	2008
+648	Forza Motorsport 4	2012
+649	Phantasy Star	1988
+650	Neverwinter Nights	2002
+651	Slaves to Armok II: Dwarf Fortress	2006
+652	Dragon Ball FighterZ 	2018
+653	Radiant Silvergun	1998
+654	Medal of Honor	1999
+655	Strider	1989
+656	999: 9 Hours, 9 Persons, 9 Doors	2009
+657	Wasteland 	1988
+658	Ghost Trick: Phantom Detective	2010
+659	Saturn Bomberman	1996
+660	Sonic Adventure	1998
+661	Baseball Stars	1989
+662	Dying Light	2015
+663	Power Stone 2	2000
+664	Outlast	2013
+665	Bejeweled	2001
+666	Madden NFL 2004	2003
+667	Professor Layton and the Curious Village	2007
+668	Rainbow Islands	1987
+669	Donkey Kong Jungle Beat	2004
+670	Pokemon Diamond and Pearl	2006
+671	Elite: Dangerous	2014
+672	Ridiculous Fishing	2013
+673	King's Quest VI: Heir Today, Gone Tomorrow	1992
+674	Starsiege: Tribes 	1998
+675	The Stanley Parable	2013
+676	Ratchet & Clank: A Crack in Time	2009
+677	Sensible Soccer	1992
+678	Pro Evolution Soccer 3	2003
+679	Centipede	1980
+680	Puyo Puyo Tetris	2014
+681	1080 Snowboarding	1998
+682	Shadow Complex	2009
+683	Animal Crossing: New Horizons	2020
+684	SOMA	2015
+685	Sonic Adventure 2	2001
+686	Killzone 2	2009
+687	Samurai Shodown II	1994
+688	Super Paper Mario	2007
+689	Ys Book I & II	1990
+690	The Operative: No One Lives Forever 	2000
+691	Mother 3	2006
+692	Thief: Deadly Shadows	2004
+693	Oddworld: Stranger's Wrath	2005
+694	Subnautica	2017
+695	Marble Madness	1984
+696	Tron	1982
+697	South Park: The Stick of Truth	2014
+698	Snipperclips	2017
+699	LEGO Star Wars	2005
+700	Super Smash Bros For 3DS	2014
+701	Octopath Traveler	2018
+702	Super Mario All-Stars	1993
+703	Impossible Mission	1984
+704	Warhammer 40,000: Dawn of War	2004
+705	Call of Duty 2	2005
+706	Puzzle Bobble	1994
+707	Slay the Spire	2017
+708	DayZ	2013
+709	Joust	1982
+710	Final Fantasy III	1990
+711	Dungeon Keeper	1997
+712	Virtua Racing	1992
+713	Syphon Filter	1999
+714	Paradroid	1985
+715	X-Men	1992
+716	The Simpsons	1991
+717	NBA 2K11	2010
+718	Project Gotham Racing 2	2003
+719	NBA Street Vol. 2	2003
+720	Pokemon Sword / Shield	2019
+721	Streets Of Rage	1991
+722	Nethack	1987
+723	Gears of War 3	2011
+724	Ni No Kuni: Wrath of the White Witch	2011
+725	Pro Evolution Soccer 4	2004
+726	Untitled Goose Game	2019
+727	Donkey Kong 64	1999
+728	Tetris 99	2019
+729	Blast Corps	1997
+730	Towerfall Ascension	2014
+731	Dragon Quest V	1992
+732	Sleeping Dogs	2012
+733	Spy Hunter	1983
+734	Pilotwings	1990
+735	Advance Wars: Dual Strike	2005
+736	The Last of Us Part II	2020
+737	Hades	2018
+738	Pokemon Snap	1999
+739	Assassin's Creed	2007
+740	Star Wars Jedi Knight II: Jedi Outcast	2002
+741	Kirby's Dream Land 	1992
+742	Sid Meier's Alpha Centauri	1998
+743	Bard's Tale	1985
+744	Florence	2018
+745	Hitman 2: Silent Assassin	2002
+746	Tom Clancy's Rainbow Six	1998
+747	Forza Motorsport 7	2017
+748	Dragon Quest IX: Sentinels of the Starry Skies	2009
+749	Silent Hills: P.T.	2014
+750	Super Ghouls 'n Ghosts	1991
+751	R.C. Pro-Am	1988
+752	Star Wars: Rogue Squadron	1998
+753	Samurai Shodown	1993
+754	Rogue	1980
+755	Need for Speed: Most Wanted	2005
+756	The Legend of Zelda: Four Swords Adventures	2004
+757	Zack & Wiki: Quest for Barbaros' Treasure	2007
+758	Lego Star Wars II: The Original Trilogy	2006
+759	Wing Commander III: Heart of the Tiger	1994
+760	NFL Blitz	1997
+761	Crash Bandicoot 2: Cortex Strikes Back	1997
+762	Rayman Origins	2011
+763	Ratchet & Clank	2016
+764	Ultima VI: The False Prophet 	1990
+765	Supreme Commander	2007
+766	Punch-Out	2009
+767	Oddworld: Abe's Oddysee	1997
+768	Kirby's Epic Yarn	2010
+769	Mario Party	1998
+770	Wario Land: Super Mario Land 3	1995
+771	Time Crisis	1995
+772	Forza Motorsport 3	2009
+773	Drop7	2008
+774	Xenoblade Chronicles X	2015
+775	Head Over Heels	1987
+776	Nidhogg	2014
+777	Monster Hunter Tri	2009
+778	The Room	2012
+779	SSX Tricky	2001
+780	Tom Clancy's Splinter Cell: Pandora Tomorrow	2004
+781	Tempest 2000	1994
+782	Road Rash	1991
+783	Alien Vs Predator	1994
+784	Teenage Mutant Ninja Turtles	1989
+785	The House of the Dead 2	1996
+786	Master of Orion 	1993
+787	BioShock 2	2010
+788	Call of Duty: Black Ops II	2012
+789	Castle of Illusion Starring Mickey Mouse	1990
+790	Middle-Earth: Shadow of War	2017
+791	Lode Runner	1983
+792	IL-2 Sturmovik	2001
+793	Medal of Honor: Allied Assault	2002
+794	Castlevania: Rondo of Blood	1993
+795	Blades of Steel	1988
+796	Titanfall	2014
+797	Arkanoid	1986
+798	Frontier: Elite II	1993
+799	Dr. Kawashima's Brain Training	2005
+800	Tales From The Borderlands	2014
+801	Bomberman	1990
+802	Jak II	2003
+803	Ghouls 'n Ghosts	1988
+804	Deadly Premonition	2010
+805	Lost Odyssey	2007
+806	Professor Layton & The Unwound Future	2010
+807	Fahrenheit	2005
+808	Total Annihilation	1997
+809	Terraria	2011
+810	Fatal Fury: Mark of the Wolves	1999
+811	Phantasy Star II	1989
+812	No More Heroes	2007
+813	Shinobi	1987
+814	Puzzle Quest	2007
+815	Beneath a Steel Sky	1994
+816	Theme Park	1994
+817	Oxenfree	2016
+818	Device 6	2013
+819	Mario & Luigi: Bowser's Inside Story	2009
+820	Pro Evolution Soccer 5	2005
+821	Forza Motorsport	2005
+822	Luigi's Mansion 3	2019
+823	Wing Commander II: Vengeance of the Kilrathi	1991
+824	Jet Force Gemini	1999
+825	Sin & Punishment: Successor to the Sky	2009
+826	Pac-Man Championship Edition DX	2010
+827	BurgerTime	1982
+828	Star Raiders	1982
+829	Final Fantasy V	1992
+830	Zero Escape: Virtue's Last Reward 	2012
+831	Dragon Quest XI	2017
+832	Blaster Master	1988
+833	S.T.A.L.K.E.R.: Call of Pripyat	2009
+834	Luigi's Mansion 2	2013
+835	The Outer Worlds	2019
+836	Banjo-Tooie	2000
+837	Leisure Suit Larry in the Land of the Lounge Lizards	1987
+838	Heroes of Might and Magic III: The Restoration of Erathia	1999
+839	ARMA 3	2013
+840	Virtua Fighter 5	2006
+841	Chuckie Egg	1983
+842	Crash Team Racing	1999
+843	Jet Set Willy	1984
+844	Fire Emblem: Path of Radiance	2005
+845	Halo 3: ODST	2009
+846	The Sims 4	2014
+847	Catherine	2012
+848	Gorogoa	2017
+849	The Wonderful 101	2013
+850	Overcooked 	2016
+851	Samba de Amigo	1999
+852	Pac-Man Championship Edition	2007
+853	Shining Force III	1998
+854	Ratchet & Clank: Going Commando	2003
+855	MVP Baseball 2005	2005
+856	FIFA 10	2009
+857	The Elder Scrolls II: Daggerfall	1996
+858	Nioh	2017
+859	Klonoa: Door to Phantomile	1997
+860	No More Heroes 2: Desperate Struggle	2010
+861	Crimson Skies	2000
+862	Mortal Kombat X	2015
+863	Infamous	2009
+864	Brothers: A Tale of Two Sons	2013
+865	Kirby's Dream Land 2	1995
+866	Super Mario Maker 2	2019
+867	Trials Evolution	2012
+868	Path of Exile	2013
+869	Dragon Force	1996
+870	Battlefield 4	2013
+871	Tekken 7	2015
+872	Donkey Kong Jr.	1982
+873	Double Dragon II: The Revenge	1988
+874	Wipeout HD	2008
+875	Tom Clancy's Rainbow Six 3: Raven Shield 	2003
+876	Sins of a Solar Empire	2008
+877	Nintendogs	2005
+878	Pokemon Crystal	2000
+879	Guild Wars	2005
+880	Gargoyle's Quest	1990
+881	Jak 3	2004
+882	Galaxian	1979
+883	Driver	1999
+884	Operation Flashpoint: Cold War Crisis	2001
+885	Sly Cooper and the Thievius Raccoonus	2002
+886	Roller Coaster Tycoon 	1999
+887	Saints Row IV	2013
+888	The Binding of Isaac	2011
+889	Astro Boy: Omega Factor	2003
+890	Cannon Fodder	1993
+891	Machinarium	2009
+892	Pokken Tournament	2015
+893	Thunder Force IV	1992
+894	Gradius	1985
+895	Operation Wolf	1987
+896	Guacamelee!	2013
+897	Final Fantasy Adventure	1991
+898	God Hand	2006
+899	Gran Turismo 5	2010
+900	E.T. the Extra-Terrestrial	1982
+901	Landstalker: The Treasures of King Nole	1992
+902	Warcraft: Orcs and Humans	1994
+903	God of War: Ghost of Sparta	2010
+904	Spyro 2: Ripto's Rage	1999
+905	Lunar: Eternal Blue	2000
+906	Far Cry 5	2018
+907	Baba Is You	2019
+908	SNK vs. Capcom: The Match of the Millennium	1999
+909	The Legend of Zelda: Spirit Tracks	2009
+910	Star Wars Jedi: Fallen Order	2019
+911	Steamworld Dig 2	2017
+912	Valkyrie Profile	2000
+913	Tactics Ogre: Let Us Cling Together	1995
+914	Batman	1990
+915	Wizball	1987
+916	Kid Icarus: Uprising	2012
+917	International Karate +	1987
+918	Tearaway	2013
+919	To The Moon	2011
+920	Micro Machines	1991
+921	Tekken 2	1995
+922	Phoenix Wright: Ace Attorney: Trials & Tribulations	2007
+923	Gradius V	2004
+924	Ori and the Will of the Wisps	2020
+925	Pilotwings 64	1996
+926	ChuChu Rocket!	1999
+927	Marathon	1994
+928	Tetris DS	2006
+929	Little King's Story	2009
+930	Defense of the Ancients	2003
+931	Burnout: Revenge	2005
+932	ToeJam & Earl	1991
+933	Half-Minute Hero	2009
+934	Final Fantasy VII Remake	2020
+935	Final Fantasy II	1988
+936	Total War: Warhammer II	2017
+937	Illusion of Gaia	1994
+938	Watch Dogs 2	2016
+939	The Legend of Zelda: Link's Awakening	2019
+940	Half Life 2: Episode 2	2007
+941	Gears 5	2019
+942	Audiosurf	2008
+943	Star Wars: X-Wing	1993
+944	Advance Wars 2	2003
+945	Candy Crush Saga	2012
+946	Rez Infinite	2016
+947	Wii Fit	2007
+948	FIFA '09	2008
+949	Max Payne 3	2012
+950	Harvest Moon	1996
+951	Desert Strike: Return to the Gulf	1992
+952	The Binding of Isaac: Rebirth	2014
+953	Snake	1997
+954	Bravely Default	2013
+955	Hyper Light Drifter	2016
+956	The Need for Speed	1994
+957	Tom Clancy's Rainbow Six: Vegas	2006
+958	Salamander	1986
+959	Zombies Ate My Neighbors	1993
+960	Sanitarium	1998
+961	Tenchu: Stealth Assassins	1998
+962	Snatcher	1994
+963	Planetside 2	2012
+964	Ninja Gaiden II: The Dark Sword of Chaos	1990
+965	Alex Kidd in Miracle World	1986
+966	Red Baron	1990
+967	Breakout	1976
+968	Monster Hunter 3 Ultimate	2013
+969	Metro 2033	2010
+970	Space Channel 5	1999
+971	Ultima V: Warriors of Destiny 	1988
+972	Warhammer 40,000: Dawn of War II	2009
+973	Mario Kart: Super Circuit	2001
+974	Outcast	1999
+975	Star Wars	1991
+976	DEFCON	2006
+977	The Talos Principle	2015
+978	Turok: Dinosaur Hunter	1997
+979	The Wolf Among Us	2013
+980	The Witcher	2007
+981	Myth: The Fallen Lords	1997
+982	TimeSplitters: Future Perfect	2005
+983	Axiom Verge	2015
+984	The Dig	1995
+985	Danganronpa: Trigger Happy Havoc 	2010
+986	Capcom vs SNK 2 (EO)	2001
+987	Lunar: The Silver Star	1992
+988	No One Lives Forever 2: A Spy in H.A.R.M.'s Way	2002
+989	Panzer General	1995
+990	Kirby Canvas Curse	2005
+991	Mario & Luigi: Partners in Time	2005
+992	Cadence of Hyrule	2019
+993	Star Wars Episode I: Racer	1999
+994	Axelay	1992
+995	Owlboy	2016
+996	Ghost of Tsushima	2020
+997	Don't Starve	2013
+998	Black	2006
+999	Track & Field	1983
+1000	Year Walk	2013
+1001	Sacrifice	2000
+1002	Gran Turismo Sport	2017
+1003	Rise of Nations	2003
+1004	Virtua Cop	1994
+1005	FarmVille	2009
+1006	Space Harrier	1985
+1007	Warframe	2012
+1008	Shadow Run	1993
+1009	Vib-Ribbon	1999
+1010	Donkey Kong Country 3	1996
+1011	The Legend of Dragoon	2000
+1012	Exile	1988
+1013	The Last Express	1997
+1014	Grandia II	2000
+1015	Call of Duty: Black Ops 4	2018
+1016	Columns	1990
+1017	Invisible, Inc.	2015
+1018	Shinobi III: Return of the Ninja Master	1993
+1019	Skullgirls	2012
+1020	Baten Kaitos: Eternal Wings and the Lost Ocean	2003
+1021	Mario Paint	1992
+1022	Just Cause 2	2010
+1023	Resogun	2013
+1024	Unreal	1998
+1025	Final Fantasy XI	2004
+1026	Spyro: Year of the Dragon	2000
+1027	1943	1987
+1028	Panzer Dragoon II: Zwei	1996
+1029	Wario Land 3	2000
+1030	Dragon's Dogma	2012
+1031	Ratchet & Clank Future: Tools of Destruction	2007
+1032	Star Wars: The Old Republic	2011
+1033	California Games	1987
+1034	Panzer Dragoon Orta	2002
+1035	Dig Dug	1982
+1036	Knight Lore	1984
+1037	The Beast Within: A Gabriel Knight Mystery	1995
+1038	Street Fighter V	2016
+1039	Castle Wolfenstein	1981
+1040	DOOM Eternal	2020
+1041	Skate 2	2009
+1042	The Room Two	2013
+1043	Vectorman	1995
+1044	Marvel vs. Capcom 3: Fate of Two Worlds	2011
+1045	Medal of Honor: Frontline	2002
+1046	Dr. Robotnik's Mean Bean Machine	1993
+1047	Seaman	1999
+1048	Star Wars: Dark Forces 	1995
+1049	Race Driver: Grid	2008
+1050	Power Stone	1999
+1051	Kingdom Hearts III	2019
+1052	Pokemon Black 2 / White 2	2012
+1053	ARMA 2	2009
+1054	DJ Hero	2009
+1055	Chibi-Robo!	2005
+1056	Doom 3	2004
+1057	Empire	1986
+1058	Ristar	1995
+1059	InFamous: Second Son	2014
+1060	Lunar: Silver Star Story Complete	1996
+1061	Overcooked 2	2018
+1062	Mario's Picross	1995
+1063	Ecco the Dolphin	1993
+1064	Mortal Kombat 11 	2019
+1065	Fire Emblem: Radiant Dawn	2007
+1066	Star Wars: X-Wing vs. TIE Fighter	1997
+1067	American McGee's Alice	2000
+1068	Crimson Skies: High Road To Revenge 	2003
+1069	Canabalt	2009
+1070	Warlords	1980
+1071	The Sentinel	1986
+1072	Loom	1991
+1073	Microsoft Flight Simulator X	2006
+1074	Revenge of Shinobi	1989
+1075	The Last Story	2011
+1076	Wonder Boy III: The Dragon's Trap	1989
+1077	We Love Katamari	2005
+1078	Transistor	2014
+1079	Castlevania: Circle of the Moon	2001
+1080	Resistance 3	2011
+1081	DoDonPachi	1997
+1082	Sly 2: Band of Thieves	2004
+1083	Pillars of Eternity	2015
+1084	Crisis Core: Final Fantasy VII	2007
+1085	Splatterhouse	1988
+1086	Badland	2013
+1087	Castlevania II: Belmont's Revenge	1991
+1088	Kirby Super Star	1996
+1089	SimCity 4	2003
+1090	Paperboy	1984
+1091	StarTropics	1990
+1092	Silent Hill: Shattered Memories	2009
+1093	VVVVVV	2010
+1094	Need For Speed: Hot Pursuit	2010
+1095	Twisted Metal: Black	2001
+1096	Monster Hunter Freedom Unite	2008
+1097	Kid Dracula	1993
+1098	Osmos	2009
+1099	Parasite Eve	1998
+1100	King Of Fighters 98: The Slugfest	1998
+1101	Super Star Wars	1992
+1102	U.N. Squadron	1991
+1103	The Warriors	2005
+1104	FIFA 15	2014
+1105	Burnout 2: Point of Impact	2002
+1106	Turok 2: Seeds of Evil	1998
+1107	Mario Bros.	1983
+1108	Lords of Midnight	1984
+1109	Crystalis	1990
+1110	SOCOM II: US Navy Seals	2003
+1111	Heroes of the Storm	2015
+1112	R4: Ridge Racer Type 4	1998
+1113	Teenage Mutant Ninja Turtles II: The Arcade Game	1990
+1114	Dance Central	2010
+1115	Shining Force: The Legacy of Great Intention	1992
+1116	Sin & Punishment	2000
+1117	Child of Light	2014
+1118	Yars' Revenge	1982
+1119	Call of Duty: WWII	2017
+1120	TowerFall	2013
+1121	XCOM: Enemy Within	2013
+1122	Mercenaries	2005
+1123	Prison Architect	2015
+1124	Pro Evolution Soccer 2	2002
+1125	The Great Escape	1986
+1126	Smash TV	1990
+1127	Tony Hawk's Pro Skater 4	2002
+1128	Tatsunoko vs. Capcom: Ultimate All-Stars	2008
+1129	Batman Returns	1993
+1130	Hitman Go	2014
+1131	Street Fighter Alpha 2	1996
+1132	Dark Cloud 2	2003
+1133	LocoRoco	2006
+1134	Metal Slug 2	1998
+1135	Blade Runner	1997
+1136	Star Wars: Shadows of the Empire	1996
+1137	Deus Ex: Mankind Divided	2016
+1138	Ultima Underworld II: Labyrinth of Worlds	1993
+1139	Galactic Civilizations II: Dread Lords	2006
+1140	Little Nightmares	2017
+1141	The Typing of the Dead	1999
+1142	Devil's Crush	1990
+1143	Daxter	2006
+1144	Football Manager	1982
+1145	Guitar Hero III	2007
+1146	Super Monkey Ball 2	2002
+1147	Body Harvest	1998
+1148	Football Manager 2007	2006
+1149	Five Nights at Freddy's	2014
+1150	Metal Gear: Ghost Babel	2000
+1151	Picross 3D	2009
+1152	OutRun 2	2003
+1153	Einhander	1997
+1154	WarioWare: Smooth Moves	2006
+1155	Europa Universalis IV	2013
+1156	Renegade	1987
+1157	Dead or Alive 2	1999
+1158	Combat	1977
+1159	Grandia	1997
+1160	Legend of Grimrock II	2014
+1161	Return to Castle Wolfenstein	2001
+1162	South Park: The Fractured But Whole	2017
+1163	Spaceteam	2012
+1164	Q*Bert	1982
+1165	Viva Pinata	2006
+1166	Gunhed	1989
+1167	Frostpunk	2018
+1168	Nier	2010
+1169	Shin Megami Tensei: Nocturne	2003
+1170	Resident Evil Zero	2002
+1171	ZombiU	2012
+1172	The Guardian Legend	1989
+1173	OutRun 2006: Coast 2 Coast	2006
+1174	iRacing.com	2012
+1175	Castlevania: Bloodlines	1994
+1176	Kung-Fu Master	1984
+1177	Final Fantasy X-2	2003
+1178	Driveclub	2014
+1179	Runescape	2001
+1180	R-Type Final	2003
+1181	Resident Evil 5	2009
+1182	Gothic II	2002
+1183	Rygar	1986
+1184	This War of Mine	2014
+1185	Gravity Rush 	2012
+1186	Project Cars 2	2017
+1187	International Superstar Soccer 64	1997
+1188	Skool Daze	1985
+1189	Final Fantasy XIII	2009
+1190	Metro: Last Light	2013
+1191	Super Street Fighter II Turbo	1994
+1192	Mortal Kombat	2011
+1193	Ogre Battle: March of the Black Queen	1993
+1194	Plague Inc.	2012
+1195	SWAT 4	2005
+1196	Colossal Cave Adventure	1972
+1197	House of the Dead	1997
+1198	Uridium	1986
+1199	GRIS	2018
+1200	Terranigma	1995
+1201	Colin McRae Rally	2000
+1202	Downwell	2015
+1203	Return Fire	1995
+1204	Stunt Car Racer	1989
+1205	FIFA 14	2013
+1206	Ultima II: The Revenge of the Enchantress	1982
+1207	Everybody's Gone to the Rapture	2015
+1208	Beat Saber	2018
+1209	The Legend of the Mystical Ninja	1991
+1210	Silent Hill 3	2003
+1211	Hyrule Warriors	2014
+1212	Trials HD	2009
+1213	FIFA 13	2012
+1214	Project Gotham Racing 3	2005
+1215	Sunless Sea	2015
+1216	Patapon	2007
+1217	Jagged Alliance 2 	1999
+1218	Shantae	2002
+1219	The Lost Vikings	1992
+1220	Starflight	1986
+1221	Aliens vs. Predator 2	2001
+1222	Ant Attack	1983
+1223	Skate	2007
+1224	World in Conflict	2007
+1225	Amplitude	2003
+1226	Anachronox	2001
+1227	Quest for Glory I: So You Want to Be a Hero	1989
+1228	Contra: Hard Corps	1994
+1229	Radiant Historia	2010
+1230	Brothers in Arms: Road to Hill 30	2005
+1231	Yoshi's Woolly World	2015
+1232	NFL 2K1	2000
+1233	Call Of Duty: Modern Warfare	2019
+1234	Ikari Warriors	1986
+1235	Muramasa: The Demon Blade	2009
+1236	Mega Man V	1994
+1237	Mega Man 5	1992
+1238	Fifa 11	2010
+1239	Bushido Blade	1997
+1240	Demon's Crest	1994
+1241	Serious Sam	2001
+1242	Drill Dozer	2005
+1243	Qix	1981
+1244	Rymdkapsel 	2013
+1245	The Hobbit	1982
+1246	Castlevania: Lords of Shadow	2010
+1247	Darksiders	2010
+1248	Tales of Vesperia	2008
+1249	Project Gotham Racing	2001
+1250	Master of Magic 	1994
+1251	Falcon 4.0: Allied Force	2005
+1252	The Forest	2018
+1253	A Plague Tale: Innocence	2019
+1254	Crypt of the NecroDancer	2015
+1255	RBI Baseball	1986
+1256	Forza Motorsport 2	2007
+1257	Fight Night Round 3	2006
+1258	Kingdom Rush	2011
+1259	Infinity Blade II	2011
+1260	Project Gotham Racing 4	2007
+1261	Medieval II: Total War	2006
+1262	NCAA Football 2004	2003
+1263	Raiden	1990
+1264	Grand Theft Auto: Vice City Stories	2006
+1265	Dead Space Extraction	2009
+1266	Astral Chain	2019
+1267	Earl Weaver Baseball	1987
+1268	Mischief Makers	1997
+1269	Shadow Hearts: Covenant	2004
+1270	Odin Sphere	2007
+1271	Colin McRae: Dirt 2	2009
+1272	Turrican 2	1991
+1273	Sayonara Wild Hearts	2019
+1274	Sound Shapes	2012
+1275	Pillars of Eternity II: Deadfire	2018
+1276	Donkey Kong Land	1995
+1277	N+	2008
+1278	Metal Gear Rising: Revengeance	2013
+1279	Total War: Warhammer	2016
+1280	Assassin's Creed III	2012
+1281	Stellaris	2016
+1282	Blood	1997
+1283	Pokemon Puzzle League	2000
+1284	Oddworld: Abe's Exoddus	1998
+1285	Midnight Club 3: DUB Edition	2006
+1286	Darwinia	2005
+1287	Aliens Versus Predator	1999
+1288	FIFA International Soccer	1994
+1289	WarioWare, Inc.: Mega Party Game$!	2003
+1290	Suikoden	1995
+1291	Sega Rally 2	1999
+1292	FIFA 18	2017
+1293	ASTRO BOT Rescue Mission	2018
+1294	Jumping Flash!	1995
+1295	Tom Clancy's Ghost Recon Advanced Warfighter	2006
+1296	Shadowgate	1989
+1297	Mr. Driller	1999
+1298	Mystical Ninja Starring Goemon	1997
+1299	Zone of the Enders: The 2nd Runner	2003
+1300	Pyre	2017
+1301	Hotel Dusk: Room 215	2007
+1302	Donut County	2018
+1303	Sonic the Hedgehog: Triple Trouble	1994
+1304	Pro Evolution Soccer 2008	2007
+1305	Phoenix Wright: Ace Attorney: Justice for All	2006
+1306	Ogre Battle 64: Person of Lordly Caliber	2000
+1307	North & South	1989
+1308	Soulcalibur VI	2018
+1309	Shin Megami Tensei: Persona 2: Innocent Sin	1999
+1310	Baldur's Gate: Dark Alliance	2001
+1311	Altered Beast	1988
+1312	Metro Exodus	2019
+1313	Bonk's Adventure	1989
+1314	Defender of the Crown	1986
+1315	Guilty Gear X2	2003
+1316	Meteos	2005
+1317	The Thing	2002
+1318	Military Madness	1989
+1319	Computer Space	1971
+1320	Kingdom Hearts: Chain of Memories	2004
+1321	Age of Mythology	2001
+1322	Soul Edge	1995
+1323	Clock Tower	1995
+1324	King's Quest IV: The Perils of Rosella	1988
+1325	NHL 09	2008
+1326	Marvel's Spider-Man: Miles Morales	2020
+1327	Golden Sun: The Lost Age	2002
+1328	Resident Evil: Revelations	2012
+1329	Grand Theft Auto: Liberty City Stories	2005
+1330	Castlevania: Order of Ecclesia	2008
+1331	James Pond 2: Codename Robocod	1991
+1332	Spider-Man	2000
+1333	Dragon Quest VI	1995
+1334	Lords of Thunder	1993
+1335	Solitaire	1990
+1336	The Lord of the Rings Online	2007
+1337	Pool of Radiance	1988
+1338	Rayman	1995
+1339	Homeworld 2	2003
+1340	Lego City Undercover	2013
+1341	Steel Battalion	2002
+1342	The Beatles: Rock Band	2009
+1343	Kingdom Hearts: Birth By Sleep	2010
+1344	Gravity Rush 2	2017
+1345	Metropolis Street Racer	2000
+1346	The New Zealand Story	1988
+1347	Metal Gear 2: Solid Snake	1990
+1348	Rampage	1986
+1349	Master of Orion 2	1996
+1350	The Evil Within	2014
+1351	Crash Team Racing Nitro-Fueled	2019
+1352	Ice Hockey	1988
+1353	Jetpack Joyride	2011
+1354	GTR 2	2006
+1355	DmC: Devil May Cry	2013
+1356	Pokemon Stadium	1999
+1357	Lara Croft GO	2015
+1358	Might & Magic: Clash of Heroes	2009
+1359	Fatal Frame	2001
+1360	Space Station Silicon Valley	1998
+1361	Dragon Quest VII	2000
+1362	Siren: Blood Curse	2008
+1363	The Banner Saga	2013
+1364	LocoRoco 2	2008
+1365	Driver: San Francisco	2011
+1366	Mini Metro	2015
+1367	Rogue Legacy	2013
+1368	Pokemon Pinball	1999
+1369	Donkey Konga	2003
+1370	Alpha Protocol	2010
+1371	Broken Age	2014
+1372	Puyo Pop Fever	2004
+1373	Half-Life: Alyx	2020
+1374	Pro Evolution Soccer	2001
+1375	Shadow of the Tomb Raider	2018
+1376	Mega Man X4	1997
+1377	Psi-Ops: The Mindgate Conspiracy	2004
+1378	Betrayal at Krondor	1993
+1379	Mario Party 2	1999
+1380	Sid Meier's Railroad Tycoon	1990
+1381	The Room Three	2015
+1382	Alto's Adventure	2015
+1383	Dragon Quest II	1987
+1384	Mario Golf	1999
+1385	Rhythm Heaven Fever	2011
+1386	Valkyria Chronicles II	2010
+1387	FIFA: Road to World Cup 98	1997
+1388	Onimusha: Warlords	2001
+1389	Devil Daggers	2016
+1390	Jungle Strike	1993
+1391	Shin Megami Tensei IV	2013
+1392	WWF Wrestlemania 2000	1999
+1393	Chuck Yeager's Air Combat	1991
+1394	Micro Machines 2: Turbo Tournament	1994
+1395	Project CARS	2015
+1396	Professor Layton and the Miracle Mask	2011
+1397	Kick Off 2	1990
+1398	Professor Layton and the Azran Legacy 	2013
+1399	Dirt Rally	2015
+1400	River Raid	1984
+1401	Undying	2001
+1402	Final Fantasy Crystal Chronicles	2003
+1403	The Last Ninja	1987
+1404	Boom Blox	2008
+1405	Ni no Kuni II: Revenant Kingdom	2018
+1406	Team Fortress	1999
+1407	Dino Crisis	1999
+1408	Clash of Clans	2012
+1409	Mr. Do!	1982
+1410	Resident Evil 3	1999
+1411	Chaos: The Battle of Wizards	1985
+1412	Forza Horizon	2012
+1413	Fire Emblem Fates	2015
+1414	Wing Commander IV: The Price Of Freedom	1995
+1415	Tom Clancy's Splinter Cell: Double Agent	2006
+1416	MLB 09: The Show	2009
+1417	The Incredible Machine	1992
+1418	Hunt The Wumpus	1972
+1419	Super Mario Party	2018
+1420	Thrust	1986
+1421	Football Manager 2015	2014
+1422	Garry's Mod	2005
+1423	The Messenger	2018
+1424	Professor Layton and the Last Specter	2009
+1425	Pro Evolution Soccer 2010	2009
+1426	Pro Evolution Soccer 2009	2008
+1427	Rampart	1990
+1428	Tokyo Mirage Sessions #FE	2016
+1429	Super Stickman Golf	2011
+1430	Wario Land 4	2001
+1431	Warhammer: Vermintide 2	2018
+1432	Grand Prix 2	1996
+1433	Detroit: Become Human	2018
+1434	Metroid: Other M	2010
+1435	Yakuza 6: The Song of Life	2016
+1436	Street Fighter	1987
+1437	Commando	1985
+1438	Wipeout 2048	2012
+1439	Berzerk	1980
+1440	Karate Champ	1984
+1441	The Walking Dead: Season 2	2014
+1442	Nintendoland	2012
+1443	Super C	1990
+1444	Rust	2013
+1445	Gitaroo Man	2001
+1446	Rock N' Roll Racing	1993
+1447	Cut The Rope	2010
+1448	Tiny Wings	2011
+1449	Mega Man Powered Up	2006
+1450	Dissidia 012: Final Fantasy	2011
+1451	Tekken	1994
+1452	Reigns	2016
+1453	Fantasy World Dizzy	1989
+1454	Super Mario Bros.: The Lost Levels	1986
+1455	Mega Man X2	1994
+1456	Gorf	1981
+1457	Ultimate Marvel vs. Capcom 3	2011
+1458	Fire Emblem Heroes	2017
+1459	Flow	2006
+1460	Tom Clancy's The Division	2016
+1461	Asphalt 8	2013
+1462	Call of Cthulhu: Dark Corners of the Earth	2006
+1463	Grand Prix Legends	1998
+1464	Dino Crisis 2	2000
+1465	Road Rash 2	1993
+1466	Carmageddon	1997
+1467	NFL Street	2002
+1468	Castlevania II: Simon's Quest	1987
+1469	Rocket Knight Adventures	1993
+1470	Danganronpa 2: Goodbye Despair 	2012
+1471	I Have No Mouth, and I Must Scream	1995
+1472	Super Bomberman 2	1994
+1473	FIFA 19	2018
+1474	Chase H.Q.	1991
+1475	Desert Golfing	2014
+1476	Star Fox Adventures	2002
+1477	Spider-Man 2	2004
+1478	Friday the 13th: The Game	2017
+1479	Quest For Glory IV: Shadows of Darkness	1994
+1480	Injustice: Gods Among Us	2013
+1481	Championship Manager 97/98	1997
+1482	Gate of Thunder	1992
+1483	Bangai-O	1999
+1484	New Super Mario Bros. 2	2012
+1485	Rhythm Heaven	2009
+1486	Excitebike 64	2000
+1487	Monster Hunter Generations	2015
+1488	Street Fighter II: Championship Edition	1992
+1489	Super Street Fighter IV: Arcade Edition	2010
+1490	The Elder Scrolls Online	2014
+1491	Shadow of the Beast	1989
+1492	Phantasy Star III: Generations of Doom	1990
+1493	WWE Smackdown! Here Comes The Pain	2003
+1494	Dungeons & Dragons: Shadow Over Mystara	1996
+1495	R-Type III: The Third Lightning	1993
+1496	Wonder Boy III: Monster Lair	1989
+1497	Heroes of Might and Magic II: The Succession Wars	1996
+1498	Beavis & Butt-head in Virtual Stupidity	1995
+1499	Yume Nikki	2004
+1500	Fruit Ninja	2010
+1501	Silent Hill 4: The Room	2004
+1502	Tiger Woods PGA Tour 12	2011
+1503	Layers of Fear	2016
+1504	Combat Mission: Beyond Overlord	1999
+1505	Klax	1990
+1506	Madden NFL 95	1994
+1507	Virtua Tennis 2	2001
+1508	Red Faction	2001
+1509	Trials Fusion	2014
+1510	Gradius III	1990
+1511	Euro Truck Simulator 2	2012
+1512	The Neverhood	1996
+1513	Castlevania: Portrait of Ruin	2006
+1514	The Legend of Heroes: Trails in the Sky	2004
+1515	Billy Hatcher and the Giant Egg	2003
+1516	Super Stardust HD	2007
+1517	Battalion Wars	2005
+1518	Gex	1995
+1519	NHL 95	1994
+1520	Commander Keen	1990
+1521	Dragon Quest Builders	2016
+1522	MLB 13: The Show	2013
+1523	Fire Emblem Gaiden	1992
+1524	Kirby Star Allies	2018
+1525	Anomaly 2	2013
+1526	Lovers in a Dangerous Spacetime	2015
+1527	Tribes 2	2001
+1528	Freedom Force	2002
+1529	Severed	2016
+1530	Virtua Cop 2	1995
+1531	Chip 'n Dale Rescue Rangers	1990
+1532	Everything	2017
+1533	Arx Fatalis	2002
+1534	Assassin’s Creed Valhalla	2020
+1535	The Last Ninja 2	1988
+1536	Fire Emblem: Shadow Dragon	2008
+1537	A Way Out	2018
+1538	Reigns: Her Majesty	2017
+1539	Eternal Champions	1993
+1540	Wonder Boy in Monster Land	1988
+1541	Kirby: Planet Robobot	2016
+1542	WarioWare: Touched!	2004
+1543	Mario Tennis Aces	2018
+1544	Mount & Blade: Warband	2010
+1545	Earthworm Jim 2	1995
+1546	Michael Jackson's Moonwalker	1990
+1547	Uplink	2001
+1548	Hydro Thunder	1999
+1549	A Boy and His Blob	2009
+1550	Red Faction: Guerrilla	2009
+1551	Payday 2	2013
+1552	Sonic Colors	2010
+1553	Windjammers	1994
+1554	Doki Doki Literature Club 	2017
+1555	Rival Schools	1998
+1556	Atic Atac	1983
+1557	Trauma Team	2010
+1558	Legendary Axe	1988
+1559	Tom Clancy's Ghost Recon	2001
+1560	Clash Royale	2016
+1561	Pro Wrestling	1987
+1562	Hidden & Dangerous	1999
+1563	NBA Live 2005	2004
+1564	Kingdoms of Amalur: Reckoning	2012
+1565	Affordable Space Adventures	2015
+1566	Gunpoint	2013
+1567	Need for Speed: Underground	2003
+1568	LittleBigPlanet (PSP)	2009
+1569	Game Dev Story	2010
+1570	Falcon 3.0	1991
+1571	Wario Land 2	1998
+1572	Intelligent Qube	1997
+1573	Smash Hit	2014
+1574	Star Ocean: The Second Story	1998
+1575	Zaxxon	1982
+1576	Front Page Sports Football Pro	1993
+1577	The Simpsons: Hit and Run	2003
+1578	The Long Dark	2014
+1579	Silent Hill: Origins	2007
+1580	SNK vs. Capcom: Card Fighters' Clash	1999
+1581	Tom Clancy's Splinter Cell: Blacklist	2013
+1582	Mario vs. Donkey Kong	2004
+1583	Raid On Bungeling Bay	1984
+1584	Super Off Road	1989
+1585	Mario Golf 64	1999
+1586	Xevious	1982
+1587	The Seven Cities of Gold	1984
+1588	Tiger Woods PGA Tour 2004	2003
+1589	Colin Mcrae Rally 2.0	2000
+1590	Descent	1995
+1591	Final Fantasy Tactics: The War of the Lions	2007
+1592	Just Dance	2009
+1593	Backyard Baseball	1997
+1594	Pushmo	2011
+1595	NHLPA Hockey '93	1992
+1596	NBA Live 95	1994
+1597	BattleTech	2018
+1598	What The Golf?	2019
+1599	Tomba!	1997
+1600	Sonic Advance	2001
+1601	Barbarian: The Ultimate Warrior	1987
+1602	Killer Instinct	2013
+1603	Sonic Chaos	1993
+1604	Championship Manager	1992
+1605	Puyo Puyo	1991
+1606	Dragon Age II	2011
+1607	Laser Squad	1988
+1608	Harvest Moon 64	1999
+1609	LittleBigPlanet 3	2014
+1610	Starbound	2013
+1611	Rising Storm	2013
+1612	Dreamfall: The Longest Journey	2006
+1613	Total War: Three Kingdoms	2019
+1614	Hang-On	1985
+1615	Forza Motorsport 4	2011
+1616	Clash at Demonhead	1989
+1617	Soldier Blade	1992
+1618	Jetpac	1983
+1619	The Evil Within 2	2017
+1620	Kung Fu	1985
+1621	Sabre Wulf	1984
+1622	Land of Illusion Starring Mickey Mouse	1992
+1623	Lufia II: Rise of the Sinistrals	1996
+1624	State of Decay 2	2018
+1625	Supreme Commander: Forged Alliance	2007
+1626	Battle Chef Brigade	2017
+1627	Spelltower	2012
+1628	MadWorld	2009
+1629	Mega Man 4	1991
+1630	Wipeout Pulse	2007
+1631	Golden Tee Golf	1990
+1632	Tom Clancy's Rainbow Six: Rogue Spear	1999
+1633	Double Dribble	1987
+1634	Wonder Boy in Monster World	1991
+1635	Picross 3D: Round 2	2015
+1636	San Francisco Rush	1996
+1637	Captain America and the Avengers	1991
+1638	Fight Night Round 4	2009
+1639	Mystery House	1980
+1640	King's Quest V	1990
+1641	Castlevania: Harmony of Dissonance	2002
+1642	Minit	2018
+1643	Fast RMX	2017
+1644	Ninja Spirit	1988
+1645	Mother	1989
+1646	Harvest Moon: Friends of Mineral Town	2003
+1647	Breath of Fire II	1994
+1648	The House of the Dead: Overkill	2009
+1649	Pinball Construction Set	1983
+1650	Halo Wars	2009
+1651	Madden NFL 2003	2002
+1652	International Track & Field	1996
+1653	Gun-Nac	1991
+1654	WCW/nWo Revenge	1998
+1655	Boom Blox Bash Party	2009
+1656	The Adventures of Batman & Robin	1994
+1657	Torchlight 2	2012
+1658	Yakuza: Like a Dragon	2020
+1659	R-Type Delta	1998
+1660	RollerCoaster Tycoon 3	2004
+1661	Metal Slug 3	2000
+1662	Gabriel Knight 3: Blood of the Sacred, Blood of the Damned	1999
+1663	Kid Icarus: Of Myths and Monsters	1991
+1664	Back To Skool	1985
+1665	Ghostbusters	1984
+1666	Football Manager 2010	2009
+1667	Super Scribblenauts	2010
+1668	San Francisco Rush 2049	2000
+1669	Sunset Riders	1993
+1670	Need for Speed Rivals	2013
+1671	Crusader Kings III	2020
+1672	Ninja Five-O	2003
+1673	Beyond Oasis	1994
+1674	The Movies	2005
+1675	Quantum Break	2016
+1676	Timesplitters	2000
+1677	Raptor: Call of the Shadows 	1994
+1678	You Don't Know Jack	1995
+1679	Dirt 3	2011
+1680	Combat Mission II: Barbarossa to Berlin	2002
+1681	Fantasy Zone	1986
+1682	Prey	2006
+1683	Assassin's Creed Syndicate	2015
+1684	Killzone	2004
+1685	Singstar	2004
+1686	Neo Turf Masters	1996
+1687	Faxanadu	1987
+1688	Killzone: Shadow Fall	2013
+1689	Spy vs. Spy	1984
+1690	Dead or Alive 3	2001
+1691	Star Fox 64 3D	2011
+1692	Mega Man Zero	2002
+1693	Telling Lies	2019
+1694	Rocket: Robot on Wheels	1999
+1695	Football Manager 2011	2010
+1696	Sid Meier's Pirates	2004
+1697	PixelJunk Monsters	2008
+1698	Soldier of Fortune 2	2002
+1699	Rocksmith	2012
+1700	Assetto Corsa	2014
+1701	Trauma Center: Under the Knife	2005
+1702	SSX	2000
+1703	Puzzle and Dragons	2012
+1704	Professor Layton vs. Phoenix Wright	2012
+1705	Wizard of Wor	1980
+1706	Gauntlet Legends	1998
+1707	Dark Age of Camelot	2001
+1708	Guacamelee! 2	2018
+1709	Disgaea 5: Alliance of Vengeance	2015
+1710	Battlefield V	2018
+1711	Championship Manager 00/01	2000
+1712	Picross DS	2007
+1713	Hard Drivin'	1989
+1714	Advance Wars: Days of Ruin	2008
+1715	Repton	1985
+1716	Dungeon Keeper 2	1999
+1717	Wild Arms	1996
+1718	Splatterhouse 3	1993
+1719	Call of Duty: Modern Warfare 3	2011
+1720	Kim Kardashian: Hollywood	2014
+1721	Empire: Total War	2009
+1722	Age of Empires III	2005
+1723	Fire Emblem Warriors	2017
+1724	Little Computer People	1985
+1725	Bloodstained: Ritual of the Night	2019
+1726	Dust: An Elysian Tail	2012
+1727	Final Fantasy Legend II	1990
+1728	Rick Dangerous	1989
+1729	Persona 2: Eternal Punishment	2000
+1730	Dead or Alive 4	2005
+1731	Carmageddon II: Carpocalypse Now	1998
+1732	Super Dodge Ball	1988
+1733	Just Cause 3	2015
+1734	Cybernator	1992
+1735	Call of Duty: Black Ops III	2015
+1736	Shadows of the Damned	2011
+1737	The Bard's Tale	2004
+1738	Torchlight	2009
+1739	Fall Guys	2020
+1740	Harvest Moon GB	1997
+1741	Hotline Miami 2: Wrong Number	2015
+1742	Passage	2007
+1743	Adventure Island II	1991
+1744	Suikoden III	2002
+1745	The Pandora Directive	1996
+1746	Bomberman '93	1992
+1747	Yakuza 4	2010
+1748	Dear Esther	2012
+1749	Super Tennis	1991
+1750	Monster Hunter	2004
+1751	Burnout Legends	2005
+1752	Spiritfarer	2020
+1753	Mayhem In Monster Land	1993
+1754	Popful Mail	1994
+1755	The Magical Quest Starring Mickey Mouse	1992
+1756	Green Beret	1985
+1757	Super Star Soldier	1990
+1758	ISS Pro Evolution	1999
+1759	Tom Clancy's Splinter Cell: Conviction	2010
+1760	Haunted House	1982
+1761	Madden NFL '94	1993
+1762	Brutal Legend	2009
+1763	Super Mario Run	2016
+1764	Target: Renegade	1988
+1765	Pro Evolution Soccer 2015	2014
+1766	Championship Manager 2	1995
+1767	Forza Motorsport 6	2015
+1768	Mario Smash Football	2005
+1769	Demon Attack	1983
+1770	Resistance 2	2008
+1771	Gunstar Super Heroes	2005
+1772	Legend of Grimrock	2012
+1773	Time Pilot	1982
+1774	Resident Evil: The Umbrella Chronicles	2007
+1775	Amnesia: A Machine for Pigs	2013
+1776	Lumines 2	2006
+1777	Where's My Water?	2011
+1778	Batman: The Video Game	1989
+1779	Soul Calibur IV	2008
+1780	State of Decay	2013
+1781	Need for Speed Underground 2	2004
+1782	The Lord of the Rings: The Return of the King	2003
+1783	Battlefield: Bad Company	2008
+1784	Hitman: Codename 47	2000
+1785	Lone Survivor	2012
+1786	Mario Golf: Advance Tour	2004
+1787	Singstar	2007
+1788	Professor Layton and the Diabolical Box	2009
+1789	Persona 4 Arena Ultimax	2013
+1790	Metal Gear Solid: Portable Ops	2006
+1791	General Chaos	1994
+1792	Gun	2005
+1793	Ring Fit Adventure	2019
+1794	Desktop Tower Defense	2007
+1795	Killzone: Liberation	2006
+1796	Tacoma	2017
+1797	Moon Patrol	1982
+1798	Shin Megami Tensei: Persona	1996
+1799	A Boy and his Blob: Trouble on Blobolonia	1989
+1800	Alien Soldier	1995
+1801	Mega Man 6	1993
+1802	Killzone 3	2011
+1803	Deus Ex: Invisible War	2003
+1804	Maze War	1973
+1805	Little Nemo: The Dream Master	1990
+1806	Homeworld: Deserts of Kharak	2016
+1807	Front Mission 3	1999
+1808	F1 2018	2018
+1809	Masq	2002
+1810	Prince of Persia	2008
+1811	Rayman Fiesta Run	2013
+1812	Xenon 2: Megablast	1989
+1813	Elevator Action	1983
+1814	Scorched earth	1991
+1815	Need for Speed III: Hot Pursuit	1998
+1816	Framed	2014
+1817	Call of Duty: Warzone	2020
+1818	Command & Conquer 3: Tiberium Wars	2007
+1819	Little Samson	1992
+1820	Mega Man 9	2009
+1821	Cadash	1991
+1822	EF2000	1995
+1823	Pac-Man Vs.	2003
+1824	Darkstalkers 3	1997
+1825	Carrier Command	1988
+1826	Bruce Lee	1983
+1827	Dusk	2018
+1828	Resistance: Fall of Man	2006
+1829	Madden NFL 06	2005
+1830	Mario Golf: Toadstool Tour	2003
+1831	Marvel Ultimate Alliance	2006
+1832	John Madden Football 92	1991
+1833	Panzer Dragoon	1995
+1834	Forza Horizon 2	2014
+1835	Silent Hunter III	2005
+1836	Epic Mickey	2010
+1837	Gran Turismo 6	2013
+1838	Everybody's Golf 2	1999
+1839	Arcanum: Of Steamworks and Magick Obscura 	2001
+1840	Magic Carpet	1996
+1841	Icewind Dale	2000
+1842	Crusader: No Remorse	1996
+1843	Police Quest II: The Vengeance	1988
+1844	Madden NFL 99	1998
+1845	Opus Magnum	2017
+1846	Toejam & Earl 2: Panic on Funkotron	1993
+1847	Street Fighter Anniversary	2004
+1848	War Thunder	2012
+1849	Infinity Blade	2010
+1850	Choplifter	1982
+1851	Lunar Jetman	1983
+1852	Air Zonk	1992
+1853	Hexen: Beyond Heretic	1995
+1854	Jimmy White's Whirlwind Snooker	1991
+1855	Battle Zone	1980
+1856	Joe Danger	2010
+1857	A Short Hike	2019
+1858	Beetle Adventure Racing	1999
+1859	Ballblazer	1984
+1860	The 7th Guest	1993
+1861	The Lucky Dime Caper Starring Donald Duck	1991
+1862	Geometry Wars: Galaxies	2007
+1863	Thirty Flights of Loving	2012
+1864	Tennis For Two	1958
+1865	The King of Fighters XIII	2010
+1866	Battletoads in Battlemaniacs	1993
+1867	The Hitchhiker's Guide to the Galaxy	1984
+1868	Catacomb 3-D	1991
+1869	MotorStorm	2007
+1870	Killing Floor 2	2016
+1871	Rule of Rose	2006
+1872	Turrican	1990
+1873	Super Street Fighter II	1993
+1874	Primal Rage	1994
+1875	Dynamite Headdy	1994
+1876	Secret of Evermore	1995
+1877	Ferrari F355 Challenge	1999
+1878	Yakuza 5	2012
+1879	SOCOM: U.S. Navy SEALs	2002
+1880	Stories Untold	2017
+1881	Treasure Island Dizzy	1988
+1882	Super Monaco GP	1989
+1883	Soul Blazer	1992
+1884	Ice Climber	1985
+1885	The Goonies II	1987
+1886	Steamworld Dig	2013
+1887	Kirby's Return To Dream Land	2011
+1888	Command & Conquer: Generals	2003
+1889	Leisure Suit Larry: Love for Sail!	1996
+1890	Street Rod	1989
+1891	Alto's Odyssey	2018
+1892	1942	1984
+1893	Harpoon	1989
+1894	Where in the World Is Carmen Sandiego?	1985
+1895	Jeanne d'Arc	2006
+1896	Bonk's Revenge	1991
+1897	Freedom Fighters	2003
+1898	Breath of Fire	1993
+1899	Spore	2008
+1900	Cart Life	2011
+1901	MechAssault	2002
+1902	Watch Dogs	2014
+1903	Little Big Adventure	1994
+1904	Crysis 2	2011
+1905	Patapon 3	2011
+1906	Oids	1987
+1907	Outlast 2	2017
+1908	Gimmick!	1992
+1909	Rift	2011
+1910	Deadline	1982
+1911	Psycho Fox	1989
+1912	Star Wars: Republic Commando	2005
+1913	Zork: Grand Inquisitor 	1997
+1914	Kirby 64: The Crystal Shards	2000
+1915	Balloon Fight	1984
+1916	The Great Giana Sisters	1987
+1917	Darksiders II	2012
+1918	Words With Friends	2011
+1919	3D Deathchase	1983
+1920	Horace Goes Skiing	1982
+1921	Flight Simulator	1980
+1922	Star Wars Galaxies	2003
+1923	Magicland Dizzy	1990
+1924	Iconoclasts	2018
+1925	Star Trek: 25th Anniversary	1991
+1926	Tony Hawk’s Pro Skater 1+2	2020
+1927	Monument Valley 2	2017
+1928	Surgeon Simulator	2013
+1929	Kirby Tilt 'n' Tumble	2000
+1930	B-17 Flying Fortress	1992
+1931	Iron Lord	1990
+1932	The Lion King	1994
+1933	NBA 2K2	2001
+1934	Contra 4	2007
+1935	Sonic & All-Stars Racing Transformed	2012
+1936	Breath of Fire: Dragon Quarter	2002
+1937	Sunless Skies	2019
+1938	Donkey King	1983
+1939	SteamWorld Heist	2015
+1940	Popeye	1982
+1941	La Abadia Del Crimen	1988
+1942	New Star Soccer	2012
+1943	Dead by Daylight	2016
+1944	Madden NFL 98	1997
+1945	NHL 11	2010
+1946	Time Crisis 2	1997
+1947	Flight Simulation	1982
+1948	Blek	2013
+1949	Micro Machines V3	1997
+1950	FIFA 08	2007
+1951	Tropico	2001
+1952	Kirby Super Star Ultra	2008
+1953	Bomberman 64	1997
+1954	Pinball Dreams	1992
+1955	Tron 2.0 	2003
+1956	Aces of the Pacific	1992
+1957	Battlezone	1998
+1958	Sly 3: Honor Among Thieves	2005
+1959	Zool	1993
+1960	Monster Hunter Portable 3rd	2010
+1961	Pitfall II: Lost Caverns	1984
+1962	Abzu	2016
+1963	Pro Evolution Soccer 2014	2013
+1964	Pro Evolution Soccer 2013	2012
+1965	Pro Evolution Soccer 2012	2011
+1966	Pro Evolution Soccer 2011	2010
+1967	Kirby's Dream Land 3	1997
+1968	NES Remix	2013
+1969	Croc	1997
+1970	Solomon's Key	1986
+1971	Street Fighter X Tekken	2012
+1972	Fatal Fury Special	1994
+1973	Tales of Destiny	1998
+1974	Theatrhythm Final Fantasy: Curtain Call	2014
+1975	Ken Griffey Jr. Presents Major League Baseball	1994
+1976	Death Race	1976
+1977	Hypnospace Outlaw	2019
+1978	Blackthorne	1994
+1979	Call of Duty: Advanced Warfare	2014
+1980	Cave Story+	2011
+1981	Frequency	2001
+1982	Realms of the Haunting 	1996
+1983	Fallout Shelter	2015
+1984	Moss	2018
+1985	Saints Row 2	2008
+1986	Rescue On Fractalus!	1985
+1987	Thunder Force III	1990
+1988	Yoshi's Crafted World	2019
+1989	Dune	1992
+1990	Gyruss	1983
+1991	Bomberman '94	1993
+1992	Remember Me	2013
+1993	Wizards & Warriors	1987
+1994	Phoenix	1980
+1995	Thomas Was Alone	2010
+1996	Tapper	1983
+1997	Colony Wars	1997
+1998	Nintendo Labo Variety Kit	2018
+1999	Mad Max	2015
+2000	Silent Scope	1999
