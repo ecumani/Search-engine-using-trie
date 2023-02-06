@@ -114,7 +114,7 @@ void LPSarray(string p,int len,int *lps)//len is length of pattern of
             //j is increased by 1
             j++;
             //j becomes the value of lps[i] 
-            lps[i]=len;
+            lps[i]=j;
             //and i is incremented by 1 for next iterartion
             i++;
         }
